@@ -1,14 +1,14 @@
 Homework2
 
 
-Addition				+
+Addition			+
 Subtraction			-
 Multiplication			*
-Division				/
+Division			/
 Module				% 
-Less than				<
+Less than			<
 Greater than			>
-Equal To				= 
+Equal To			= 
 Not Equal To			!
 	
 IDENT = [a-zA-Z]+[ a-zA-Z0-9]*
